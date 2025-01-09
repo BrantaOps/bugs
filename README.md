@@ -53,6 +53,7 @@ This bounty is for security only - UI/UX bugs are not covered by this program.
 # Coda
 This is meant to serve as a guide for our bug bounty program which is sure to evolve over time.
 
-Our mission is to enhance Bitcoin as Medium of Exchange
+Our mission is to enhance Bitcoin as Medium of Exchange - we welcome any help on this mission.
 
-We welcome all on this species-scale mission.
+
+Lastly, we encourage reuse of this [Bounty Template](https://github.com/BrantaOps/bugs) by Bitcoin Companies. See our [escrowed sats](https://app.lightningbounties.com/issue/da363e44-2b0b-407e-a4e3-cb06236ed31c) as an example.
