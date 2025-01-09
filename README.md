@@ -36,7 +36,7 @@ https://github.com/BrantaOps/branta-core
  
 
 # Disclosure
-Please send all submissions and questions to support AT branta DOT pro. We review and respond as quickly as possible.
+Please send all submissions and questions to support AT branta DOT pro. We will review and respond as quickly as possible.
 
  
 
