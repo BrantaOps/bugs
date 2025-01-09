@@ -43,7 +43,7 @@ Please send all submissions and questions to support AT branta DOT pro. We revie
  
 
 # Payout
-Branta uses [Lightning Bounties](https://lightningbounties.com/) to issue sats for confirmed disclosures.
+Branta uses [Lightning Bounties](https://app.lightningbounties.com/issue/da363e44-2b0b-407e-a4e3-cb06236ed31c) to issue sats for confirmed disclosures.
 This bounty is for security only - UI/UX bugs are not covered by this program.
 
  
